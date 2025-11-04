@@ -30,7 +30,7 @@ function compile() {
 }
 
 function setInitial(data) {
-  let htmlContent = data[0] || '<h1> Welcome to Starxer-EditorX ! </h1>';
+  let htmlContent = data[0] || '<h1> Welcome to Amarjeet Code Editor ! </h1>';
   let cssContent =
     data[1] ||
     `body {
